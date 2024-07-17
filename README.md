@@ -1,0 +1,1 @@
+This is a library to model and represent binary trees. You can see some examples at the file `test.py`
