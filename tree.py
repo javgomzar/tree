@@ -177,6 +177,8 @@ class Node:
                                 gap += 2
                             elif shift == 1:
                                 shift -= 1
+                                gap += 2
+                            else:
                                 gap += 1
                             break
                     else:
